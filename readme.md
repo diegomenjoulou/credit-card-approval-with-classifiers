@@ -6,7 +6,7 @@ For the past 10 years I worked at a Bank where one of my duties was credit analy
 
 Although te column names are available, the data was anonymized to protect the privacy.
 
-The implementations are: **Logistic Regression**, **Random Forest**, and **XGBoost**. 
+The implementations are: **Logistic Regression**, **Random Forest**, and **XGBoost** using `Scikit-learn` and `XGBoost`.
 
 The dataset was published by [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/credit+approval) and was submitted by **quinlan '@' cs.su.oz.au**.
 
