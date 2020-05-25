@@ -12,7 +12,7 @@ The purpose of this is to try out different ML classification algorithms to dete
 
 ### Dependencies
 
-`pandas` `numpy` `Scikit-learn` `XGBoost`
+`pandas` `numpy` `Scikit-learn` `XGBoost` `joblib`
 
 ---
 
