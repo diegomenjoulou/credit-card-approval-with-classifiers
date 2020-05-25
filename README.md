@@ -1,11 +1,15 @@
 ## Credit card approval prediction algorithm
 
-The purpose of this is non comercial, just for trying out ML algorithms. Although te column names are available, the data was anonymized to protect the privacy.
+The purpose of this is to try out different ML classification algorithms to determine if a credit card application should be approved or recjected. 
 
 
 ### Requierments
 
-`jupyter notebook` `pandas` `numpy` `Scikit-learn` `XGBoost`
+`python3` `jupyter notebook` 
+
+### Dependencies
+
+`pandas` `numpy` `Scikit-learn` `XGBoost`
 
 ### About
 
@@ -14,4 +18,3 @@ In the last few years we implemented a software based on rules that discarded or
 The dataset was published by [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/credit+approval) and was submitted by **quinlan '@' cs.su.oz.au**.
 
 This notebook is based on [Sayak Paul's Datacamp Project](https://www.datacamp.com/projects/558).
-
