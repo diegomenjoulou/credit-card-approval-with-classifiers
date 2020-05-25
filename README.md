@@ -22,7 +22,7 @@ There are some traditional credit card approval systems that are inflexible and 
 
 ### Conclusion
 
-Althouh the dataset is very small and the data is anonymized the implementations worked out very accurately how to determine whether a credit card should be approved or not. 
+Althouh the dataset is very small and the data is anonymized the implementations worked out very accurately how to determine whether a credit card should be approved or not. Between the three implementations, the one which worked best was the Random Forest Classificator, although probably with a bigger sample an XGBoost may be better. Both of these outpreformed the Logistic Regression which was the original solution proposed for the problem.
 
 ---
 
