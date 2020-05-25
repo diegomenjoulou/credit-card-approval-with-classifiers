@@ -6,7 +6,7 @@ The purpose of this is to try out different ML classification algorithms to dete
 
 ---
 
-### Requierments
+### Requirements
 
 `python3` `jupyter notebook` 
 
